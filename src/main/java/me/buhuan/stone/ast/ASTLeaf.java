@@ -1,6 +1,6 @@
 package me.buhuan.stone.ast;
 
-import me.buhuan.stone.Token;
+import me.buhuan.stone.core.Token;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,6 +1,6 @@
-import me.buhuan.stone.Lexer;
+import me.buhuan.stone.core.Lexer;
 import me.buhuan.stone.exception.ParseException;
-import me.buhuan.stone.Token;
+import me.buhuan.stone.core.Token;
 import org.junit.Test;
 
 import java.io.*;

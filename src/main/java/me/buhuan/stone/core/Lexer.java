@@ -1,4 +1,4 @@
-package me.buhuan.stone;
+package me.buhuan.stone.core;
 
 import me.buhuan.stone.exception.ParseException;
 

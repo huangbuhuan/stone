@@ -1,6 +1,6 @@
 package me.buhuan.stone.exception;
 
-import me.buhuan.stone.Token;
+import me.buhuan.stone.core.Token;
 
 import java.io.IOException;
 

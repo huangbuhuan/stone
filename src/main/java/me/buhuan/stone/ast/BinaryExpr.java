@@ -1,4 +1,4 @@
-package me.buhuan.stone;
+package me.buhuan.stone.ast;
 
 import me.buhuan.stone.ast.ASTLeaf;
 import me.buhuan.stone.ast.ASTList;
