@@ -1,5 +1,5 @@
 import me.buhuan.stone.Lexer;
-import me.buhuan.stone.ParseException;
+import me.buhuan.stone.exception.ParseException;
 import me.buhuan.stone.Token;
 import org.junit.Test;
 

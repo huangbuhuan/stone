@@ -1,5 +1,7 @@
 package me.buhuan.stone;
 
+import me.buhuan.stone.exception.ParseException;
+
 import java.io.IOException;
 import java.io.LineNumberReader;
 import java.io.Reader;

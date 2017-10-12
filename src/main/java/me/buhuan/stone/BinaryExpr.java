@@ -1,5 +1,9 @@
 package me.buhuan.stone;
 
+import me.buhuan.stone.ast.ASTLeaf;
+import me.buhuan.stone.ast.ASTList;
+import me.buhuan.stone.ast.ASTree;
+
 import java.util.List;
 
 /**
@@ -7,7 +11,7 @@ import java.util.List;
  * @version 1.0.0
  * @since 2017/7/5下午11:35
  */
-public class BinaryExpr extends ASTList{
+public class BinaryExpr extends ASTList {
     public BinaryExpr(List<ASTree> list) {
         super(list);
     }

@@ -1,5 +1,7 @@
 package me.buhuan.stone;
 
+import me.buhuan.stone.exception.StoneException;
+
 /**
  * @author hbh
  * @version 1.0.0

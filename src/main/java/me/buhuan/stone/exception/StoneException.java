@@ -1,4 +1,4 @@
-package me.buhuan.stone;
+package me.buhuan.stone.exception;
 
 import com.sun.source.tree.AssertTree;
 
